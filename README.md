@@ -1,6 +1,6 @@
-# Proyecto de Listas Enlazadas y Agenda de Contactos en Java
+# Actividad de Listas Enlazadas y Agenda de Contactos en Java
 
-Este proyecto implementa diferentes tipos de **listas enlazadas** (simplemente enlazada, doblemente enlazada y circular) y una **agenda de contactos** usando estas estructuras. Permite realizar operaciones básicas sobre las listas y gestionar contactos con información como nombre, dirección y teléfono.
+Esta actividad implementa diferentes tipos de **listas enlazadas** (simplemente enlazada, doblemente enlazada y circular) y una **agenda de contactos** usando estas estructuras. Permite realizar operaciones básicas sobre las listas y gestionar contactos con información como nombre, dirección y teléfono.
 
 ---
 
